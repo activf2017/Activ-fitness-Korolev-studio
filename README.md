@@ -1,6 +1,14 @@
-# Holiday
-Друзья! Я с хорошими новостями  Праздники любите? Думаю, очень.  А мы любим, устраивать их для Вас! 14 апреля (суббота) мы будем ждать Вас на ДНЕ ОТКРЫТЫХ ДВЕРЕЙ!  Для всех вход свободный! Не пропустите! Мастер-классы, угощения, розыгрыши! А также семинар по индивидуальному питанию от   Настоящая весна совсем близко  приходите отмечать ее вместе с нами!
-Актив фитнес студия Адрес: 141077 г. Королев, Октябрьский бульвар, дом 5.
-https://activf2017.blogspot.ru/
+## Welcome to Актив фитнес студия Королёв 
+#растяжка#королев#йога#йога в гамаках#йога в воздухе#шпагат#кроссфит#trx#здоровая спина#зумба
+
+Актив фитнес студия Королёв. Заниматься может любой желающий, даже если у вас нет спортивного прошлого, 
+вне зависимости от возраста и уровня подготовки. В нашем клубе вы встретите единомышленников,
+людей, которые так же как и вы хотят вести здоровый образ жизни. Вы проведете время с пользой и удовольствием!
+Welcome to the Holiday Актив фитнес студия Королёв !
+
+![Актив фитнес студия Адрес: 141077 г. Королев, Октябрьский бульвар, дом 5.](https://4.bp.blogspot.com/-KkSoko-cfhU/WruOS-99z1I/AAAAAAAAAeE/2QfsRDoaVfA-iBaHdDpPTIr0vGot0OVhgCLcBGAs/s400/%25D1%2580%25D0%25B0%25D1%2581%25D1%2582%25D1%258F%25D0%25B6%25D0%25BA%25D0%25B0-ANIMATION.gif)
+[Актив фитнес студия Королёв](https://activf2017.blogspot.ru/)
+
+![Мы ждем Вас!](https://4.bp.blogspot.com/-Vozw--6GEa8/WraWA26N2bI/AAAAAAAAAU8/4e-lxnOtVRwejgg77jOfKKXkO4o7J1-IwCEwYBhgL/s1600/%25D0%2590%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%2B%25D0%259A%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BB%25D0%25B5%25D0%25B2.jpg)
+[https://activf2017.blogspot.ru/](https://activf2017.blogspot.ru/)
 <a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
-<a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://lh3.googleusercontent.com/m-LEkrxEHIBKN2PN8dV1e754Vqtd0BGfLF0Vr3YGURKIS1YJz_JTTD351kEod-P2j_3Iko9NtNB7kIJy2bVgw9oTJRpfhic3KSF-vrOrIi_p3o_8gcOkbDqiQeEw2tbIN1L9g5pGNzKm9g_KO2_M25oecpepc2_Kpv5NBmO7Ms9-Jw_4rVR1yZLKMUOUaeFtDxmRv4O6OOqEZSoN28_Q22VFKxUus-wLC2jGtASeDaR2LAdaZuMKab7IRa-YjvchT-RthBoKl2ernuapVN-JXsB5Le_Csp1VdkQORqOe4UGzfvgT3TRuKOpGNbIKxT7LgddwpQRrim3qNciOC3Ou02_ihqUNc4oGfpzgNH5_-ZXaNysnbmb2vwrCJariAYFCMsVcV7Ruc3xqKokKfCJPpflPHqlQ0Msfsu5fA-C5nB6oxO0LadV7MKwp9eEqawiV5IiURaHB4q97BMocxH3b1cY1J7BDlWtrykVdaWdhhqXFnfKMP9CdlKjzE8uj1CX6L6dnZlxE6nn44XmSapDkLUfwaf392_DRXNStWVOcgJsOvbYc7EIjlhH4OsyY0SvGUroDgy_yyI6I7OcleMTaKLV56AVcG3_bLNBd-4g=w593-h594-no" height="300" width="300" border="0" /></a>
