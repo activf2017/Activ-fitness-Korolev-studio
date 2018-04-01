@@ -13,7 +13,7 @@ Welcome to the Holiday Актив фитнес студия Королёв !
 [https://activf2017.blogspot.ru/](https://activf2017.blogspot.ru/)
 <a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
 
-`<script type="text/javascript">(function() {
+<script type="text/javascript">(function() {
   if (window.pluso)if (typeof window.pluso.start == "function") return;
   if (window.ifpluso==undefined) { window.ifpluso = 1;
     var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
@@ -22,4 +22,4 @@ Welcome to the Holiday Актив фитнес студия Королёв !
     var h=d[g]('body')[0];
     h.appendChild(s);
   }})();</script>
-<div class="pluso" data-background="#ebebeb" data-options="small,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter,google,pinterest,moimir,tumblr,instapaper" data-url="https://github.com/activf2017" data-title="Актив фитнес студия Королёв " data-user="28998317"></div>`
+<div class="pluso" data-background="#ebebeb" data-options="small,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter,google,pinterest,moimir,tumblr,instapaper" data-url="https://github.com/activf2017" data-title="Актив фитнес студия Королёв " data-user="28998317"></div>
