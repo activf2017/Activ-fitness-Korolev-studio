@@ -12,14 +12,3 @@ Welcome to the Holiday Актив фитнес студия Королёв !
 ![Мы ждем Вас!](https://4.bp.blogspot.com/-Vozw--6GEa8/WraWA26N2bI/AAAAAAAAAU8/4e-lxnOtVRwejgg77jOfKKXkO4o7J1-IwCEwYBhgL/s1600/%25D0%2590%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%2B%25D0%259A%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BB%25D0%25B5%25D0%25B2.jpg)
 [https://activf2017.blogspot.ru/](https://activf2017.blogspot.ru/)
 <a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
-
-`<script type="text/javascript">(function() {
-  if (window.pluso)if (typeof window.pluso.start == "function") return;
-  if (window.ifpluso==undefined) { window.ifpluso = 1;
-    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
-    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
-    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
-    var h=d[g]('body')[0];
-    h.appendChild(s);
-  }})();</script>
-<div class="pluso" data-background="#ebebeb" data-options="small,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter,google,pinterest,moimir,tumblr,instapaper" data-url="https://github.com/activf2017" data-title="Актив фитнес студия Королёв " data-user="28998317"></div>`
