@@ -28,3 +28,7 @@ http://activf2017.blogspot.com/ - automatic!
 
 http://activf2017.blogspot.com/ - Переходим!
 [Основной сайт - полная информация](http://activf2017.blogspot.com/)
+
+`<script src="https://apis.google.com/js/platform.js"></script>`
+
+`<div class="g-ytsubscribe" data-channelid="UCrCu3272cpMniKEgYIyjffQ" data-layout="full" data-count="default"></div>`
