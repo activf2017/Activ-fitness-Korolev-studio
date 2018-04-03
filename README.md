@@ -12,7 +12,3 @@ Welcome to the Holiday Актив фитнес студия Королёв !
 ![Мы ждем Вас!](https://4.bp.blogspot.com/-Vozw--6GEa8/WraWA26N2bI/AAAAAAAAAU8/4e-lxnOtVRwejgg77jOfKKXkO4o7J1-IwCEwYBhgL/s1600/%25D0%2590%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%2B%25D0%259A%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BB%25D0%25B5%25D0%25B2.jpg)
 [https://activf2017.blogspot.ru/](https://activf2017.blogspot.ru/)
 <a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://goo.gl/gjB9GV" height="31" width="88" border="0" /></a>
-
-`<script src="https://apis.google.com/js/platform.js"></script>`
-
-`<div class="g-ytsubscribe" data-channelid="UCrCu3272cpMniKEgYIyjffQ" data-layout="full" data-count="default"></div>`
