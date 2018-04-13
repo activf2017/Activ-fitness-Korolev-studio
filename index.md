@@ -5,7 +5,7 @@
 http://activf2017.blogspot.com/ - automatic!
 [Актив фитнес студия Королёв](http://activf2017.blogspot.com/)
 
-<p align="center">![Актив фитнес студия Королёв](https://avatars1.githubusercontent.com/u/37883500?s=200&v=4)</p>
+![Актив фитнес студия Королёв]<p align="center">(https://avatars1.githubusercontent.com/u/37883500?s=200&v=4)</p>
 
 #Актив фитнес студия Адрес: 141077 г. Королев, Октябрьский бульвар, дом 5.
 
