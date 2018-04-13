@@ -4,6 +4,12 @@
 
 http://activf2017.blogspot.com/ - automatic!
 [Актив фитнес студия Королёв](http://activf2017.blogspot.com/)
+.centered {
+position: fixed;
+top: 50%;
+left: 50%;
+margin: -50px 0 0 -100px;
+}
 
 ![Актив фитнес студия Королёв](https://avatars1.githubusercontent.com/u/37883500?s=200&v=4)
 
