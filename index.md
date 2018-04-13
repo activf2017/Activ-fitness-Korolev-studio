@@ -5,7 +5,7 @@
 http://activf2017.blogspot.com/ - Переходим!
 [Актив фитнес студия Королёв](http://activf2017.blogspot.com/)
 
-<p align="center"><href="https://activf2017.blogspot.ru/"target="_blank" border="0"> 
+<p align="center"> 
 <img src="https://avatars1.githubusercontent.com/u/37883500?s=200&v=4">
 </p>
   
