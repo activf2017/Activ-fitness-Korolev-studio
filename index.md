@@ -2,10 +2,8 @@
 
 ## Фитнес студия АКТИВ Королев 
 
-http://activf2017.blogspot.com/ - automatic!
+http://activf2017.blogspot.com/ - Переходим!
 [Актив фитнес студия Королёв](http://activf2017.blogspot.com/)
-
-![Актив фитнес студия Королёв](http://activf2017.blogspot.com/)
 
 <p align="center"> 
 <img src="https://avatars1.githubusercontent.com/u/37883500?s=200&v=4">
@@ -25,10 +23,11 @@ http://activf2017.blogspot.com/ - automatic!
 
 #В нашем клубе вы встретите единомышленников, людей, которые так же как и вы хотят вести здоровый образ жизни. Вы проведете время с пользой и удовольствием!
 
-![Актив фитнес студия Королёв](https://github.com/activf2017/Activ-fitness-Korolev-studio/blob/master/%D1%81%D0%BE%D0%BD%D1%8F%20%D1%80%D0%B0%D1%81%D1%82-ANIMATION.gif?raw=true)
+<p align="center"> 
+<img src="https://github.com/activf2017/Activ-fitness-Korolev-studio/blob/master/%D1%81%D0%BE%D0%BD%D1%8F%20%D1%80%D0%B0%D1%81%D1%82-ANIMATION.gif?raw=true">
+</p>
 
 контакт E-mail: activf2017@gmail.com
-
 
 http://activf2017.blogspot.com/ - Переходим!
 [Основной сайт - полная информация](http://activf2017.blogspot.com/)
